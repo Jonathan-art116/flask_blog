@@ -1,1 +1,1 @@
-# flask_blog
+https://dormousehole.readthedocs.io/en/latest/tutorial/factory.html
